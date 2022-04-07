@@ -1,1 +1,1 @@
-# dockerized-quick-mysql
+# quick-mysql-server
